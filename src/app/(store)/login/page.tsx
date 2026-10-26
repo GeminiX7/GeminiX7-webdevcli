@@ -30,8 +30,6 @@ function LoginInner() {
     router.push(next);
   };
 
-  const fillDemo = (e: string, p: string) => { setEmail(e); setPassword(p); };
-
   return (
     <div className="mx-auto flex max-w-7xl flex-col items-center px-4 py-12">
       <Link href="/" className="flex items-center gap-2.5">
@@ -50,13 +48,6 @@ function LoginInner() {
           {error && <p className="rounded-xl bg-red-50 p-3 text-[13px] font-semibold text-red-600">{error}</p>}
           <Button type="submit" loading={loading} className="w-full" size="lg">Sign In</Button>
         </form>
-        <div className="mt-5 rounded-2xl bg-slate-50 p-4 text-[13px]">
-          <p className="font-bold text-slate-700">Try demo accounts:</p>
-          <div className="mt-2 flex flex-wrap gap-2">
-            <button onClick={() => fillDemo("admin@donwise.ng", "admin123")} className="rounded-lg bg-ink-900 px-3 py-1.5 text-xs font-bold text-white">Admin demo</button>
-            <button onClick={() => fillDemo("chiamaka@gmail.com", "customer123")} className="rounded-lg bg-brand-100 px-3 py-1.5 text-xs font-bold text-brand-700">Customer demo</button>
-          </div>
-        </div>
         <p className="mt-5 text-center text-sm text-slate-500">
           Don&apos;t have an account? <Link href="/register" className="font-bold text-brand-600 hover:underline">Create one</Link>
         </p>
