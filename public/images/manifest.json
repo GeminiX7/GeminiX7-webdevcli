@@ -1,0 +1,352 @@
+[
+  {
+    "name": "laptop1",
+    "file": "/images/products/laptop1.jpg",
+    "bytes": 32461,
+    "source": "https://images.pexels.com/photos/11129922/pexels-photo-11129922.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "provider": "Pexels"
+  },
+  {
+    "name": "laptop2",
+    "file": "/images/products/laptop2.jpg",
+    "bytes": 87492,
+    "source": "https://images.pexels.com/photos/8068269/pexels-photo-8068269.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "provider": "Pexels"
+  },
+  {
+    "name": "laptop3",
+    "file": "/images/products/laptop3.jpg",
+    "bytes": 38934,
+    "source": "https://images.pexels.com/photos/8533587/pexels-photo-8533587.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "provider": "Pexels"
+  },
+  {
+    "name": "laptop4",
+    "file": "/images/products/laptop4.jpg",
+    "bytes": 36990,
+    "source": "https://images.pexels.com/photos/93405/pexels-photo-93405.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "provider": "Pexels"
+  },
+  {
+    "name": "laptop5",
+    "file": "/images/products/laptop5.jpg",
+    "bytes": 46687,
+    "source": "https://images.pexels.com/photos/943596/pexels-photo-943596.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "provider": "Pexels"
+  },
+  {
+    "name": "laptop6",
+    "file": "/images/products/laptop6.jpg",
+    "bytes": 40240,
+    "source": "https://images.pexels.com/photos/5353690/pexels-photo-5353690.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "provider": "Pexels"
+  },
+  {
+    "name": "mac1",
+    "file": "/images/products/mac1.jpg",
+    "bytes": 54900,
+    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "mac2",
+    "file": "/images/products/mac2.jpg",
+    "bytes": 42800,
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "dell1",
+    "file": "/images/products/dell1.jpg",
+    "bytes": 73631,
+    "source": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "gaming1",
+    "file": "/images/products/gaming1.jpg",
+    "bytes": 52985,
+    "source": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "thinkpad",
+    "file": "/images/products/thinkpad.jpg",
+    "bytes": 43118,
+    "source": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "iphone1",
+    "file": "/images/products/iphone1.jpg",
+    "bytes": 51888,
+    "source": "https://images.pexels.com/photos/30639091/pexels-photo-30639091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "iphone2",
+    "file": "/images/products/iphone2.jpg",
+    "bytes": 104825,
+    "source": "https://images.pexels.com/photos/7068406/pexels-photo-7068406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "iphone3",
+    "file": "/images/products/iphone3.jpg",
+    "bytes": 30241,
+    "source": "https://images.pexels.com/photos/3945698/pexels-photo-3945698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "iphone4",
+    "file": "/images/products/iphone4.jpg",
+    "bytes": 25935,
+    "source": "https://images.pexels.com/photos/3945679/pexels-photo-3945679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "iphone5",
+    "file": "/images/products/iphone5.jpg",
+    "bytes": 58589,
+    "source": "https://images.pexels.com/photos/8381365/pexels-photo-8381365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "iphU1",
+    "file": "/images/products/iphU1.jpg",
+    "bytes": 34555,
+    "source": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "iphU2",
+    "file": "/images/products/iphU2.jpg",
+    "bytes": 52290,
+    "source": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "iphU3",
+    "file": "/images/products/iphU3.jpg",
+    "bytes": 41419,
+    "source": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "samsung",
+    "file": "/images/products/samsung.jpg",
+    "bytes": 37081,
+    "source": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "ps1",
+    "file": "/images/products/ps1.jpg",
+    "bytes": 110551,
+    "source": "https://images.pexels.com/photos/7871504/pexels-photo-7871504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "ps2",
+    "file": "/images/products/ps2.jpg",
+    "bytes": 218076,
+    "source": "https://images.pexels.com/photos/1367000/pexels-photo-1367000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "ps3",
+    "file": "/images/products/ps3.jpg",
+    "bytes": 247164,
+    "source": "https://images.pexels.com/photos/21067/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "ps4",
+    "file": "/images/products/ps4.jpg",
+    "bytes": 128455,
+    "source": "https://images.pexels.com/photos/4523006/pexels-photo-4523006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "ps5",
+    "file": "/images/products/ps5.jpg",
+    "bytes": 27726,
+    "source": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "ps6",
+    "file": "/images/products/ps6.jpg",
+    "bytes": 54356,
+    "source": "https://images.pexels.com/photos/32967534/pexels-photo-32967534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "xbox",
+    "file": "/images/products/xbox.jpg",
+    "bytes": 23848,
+    "source": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "buds1",
+    "file": "/images/products/buds1.jpg",
+    "bytes": 46203,
+    "source": "https://images.pexels.com/photos/17810093/pexels-photo-17810093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "buds2",
+    "file": "/images/products/buds2.jpg",
+    "bytes": 55709,
+    "source": "https://images.pexels.com/photos/33797659/pexels-photo-33797659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "buds3",
+    "file": "/images/products/buds3.jpg",
+    "bytes": 56132,
+    "source": "https://images.pexels.com/photos/33298189/pexels-photo-33298189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "buds4",
+    "file": "/images/products/buds4.jpg",
+    "bytes": 204007,
+    "source": "https://images.pexels.com/photos/3921817/pexels-photo-3921817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "headphone",
+    "file": "/images/products/headphone.jpg",
+    "bytes": 42635,
+    "source": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "sonyhead",
+    "file": "/images/products/sonyhead.jpg",
+    "bytes": 29798,
+    "source": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "watch1",
+    "file": "/images/products/watch1.jpg",
+    "bytes": 79319,
+    "source": "https://images.pexels.com/photos/437038/pexels-photo-437038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "watch2",
+    "file": "/images/products/watch2.jpg",
+    "bytes": 233487,
+    "source": "https://images.pexels.com/photos/18662969/pexels-photo-18662969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "watch3",
+    "file": "/images/products/watch3.jpg",
+    "bytes": 128615,
+    "source": "https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "desk1",
+    "file": "/images/products/desk1.jpg",
+    "bytes": 135173,
+    "source": "https://images.pexels.com/photos/7858742/pexels-photo-7858742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "desk2",
+    "file": "/images/products/desk2.jpg",
+    "bytes": 98254,
+    "source": "https://images.pexels.com/photos/28297696/pexels-photo-28297696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "keyboard",
+    "file": "/images/products/keyboard.jpg",
+    "bytes": 74548,
+    "source": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "mouse",
+    "file": "/images/products/mouse.jpg",
+    "bytes": 32622,
+    "source": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "speaker",
+    "file": "/images/products/speaker.jpg",
+    "bytes": 58790,
+    "source": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "drone",
+    "file": "/images/products/drone.jpg",
+    "bytes": 62598,
+    "source": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "monitor",
+    "file": "/images/products/monitor.jpg",
+    "bytes": 17283,
+    "source": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "powerbank",
+    "file": "/images/products/powerbank.jpg",
+    "bytes": 72001,
+    "source": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "ssd",
+    "file": "/images/products/ssd.jpg",
+    "bytes": 108468,
+    "source": "https://images.pexels.com/photos/2942361/pexels-photo-2942361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "provider": "Pexels"
+  },
+  {
+    "name": "charger",
+    "file": "/images/products/charger.jpg",
+    "bytes": 50977,
+    "source": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "ipad",
+    "file": "/images/products/ipad.jpg",
+    "bytes": 82907,
+    "source": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "hero",
+    "file": "/images/products/hero.jpg",
+    "bytes": 80513,
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "home-hero-laptop",
+    "file": "/images/products/home-hero-laptop.jpg",
+    "bytes": 80513,
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+    "provider": "Unsplash"
+  },
+  {
+    "name": "home-deals-banner-gaming-laptop",
+    "file": "/images/products/home-deals-banner-gaming-laptop.jpg",
+    "bytes": 33502,
+    "source": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80",
+    "provider": "Unsplash"
+  }
+]
